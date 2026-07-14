@@ -6,7 +6,7 @@ import { useSenhas } from "./hooks/useSenhas";
 import { COLORS } from "./constants/colors";
 import type { Senha } from "./types";
 
-const YOUTUBE_VIDEO_ID = "ORPyOp_WFpU";
+const YOUTUBE_VIDEO_ID = "JI3amDJRrLI";
 const TEMPO_EXIBICAO_SENHA = 7000;
 const TEMPO_EXTRA_ESPERA = 1000;
 const LOCAL_STORAGE_ANDAR_KEY = "painel_vitae_andar";
